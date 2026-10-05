@@ -1,0 +1,6 @@
+{
+  "name": "SAVORÉ - Restaurant & Management Platform",
+  "description": "Complete Restaurant Website, Online Ordering, POS, Kitchen Display, Inventory, CRM, and Multi-Branch Management Ecosystem.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
